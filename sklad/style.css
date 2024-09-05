@@ -161,6 +161,12 @@ tr:hover td .delete {
   td {
     font-size: 10px;
   }
+  .search-title {
+    display: none;
+  }
+  #form {
+    padding-top: 100px;
+  }
 }
 @media only print {
   .color {
