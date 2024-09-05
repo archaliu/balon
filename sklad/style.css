@@ -167,6 +167,10 @@ tr:hover td .delete {
   #form {
     padding-top: 100px;
   }
+  h3 {
+    padding-left: 5px;
+    font-size: 15px;
+  }
 }
 @media only print {
   .color {
