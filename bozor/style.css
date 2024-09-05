@@ -131,7 +131,9 @@ tr:hover td i {
   height: 30px;
   text-align: center;
 }
-
+.res {
+  display: none;
+}
 @media only screen and (max-width: 750px) {
   th {
     font-size: 10px;
@@ -147,6 +149,12 @@ tr:hover td i {
   }
   .respons {
     width: 150px !important;
+  }
+  .res {
+    display: block;
+  }
+  .res1 {
+    display: none;
   }
 }
 @media only print {
